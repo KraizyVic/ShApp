@@ -1,6 +1,7 @@
 # shapp
 
-Ashopping app
+Ashopping_List application that I made to understand Hive serialization and deserialization if data stored in memeory,
+Hope you find this helpful 
 
 ## Getting Started
 
